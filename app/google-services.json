@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245407538511",
+    "firebase_url": "https://pingapp-28401.firebaseio.com",
+    "project_id": "pingapp-28401",
+    "storage_bucket": "pingapp-28401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245407538511:android:41fdf66f1493990e",
+        "android_client_info": {
+          "package_name": "com.example.pingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245407538511-gv3jpii4nc4orj278m6i3bcotlilsisq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pingapp",
+            "certificate_hash": "85d5a6ed293425d20bd3cf0b3da0ce9064b91f61"
+          }
+        },
+        {
+          "client_id": "245407538511-72o672e00cb6736mdam131k5r7mu39ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCzO4A5UMrG-wVN9SVmusHLCBxLayo4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245407538511-72o672e00cb6736mdam131k5r7mu39ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
